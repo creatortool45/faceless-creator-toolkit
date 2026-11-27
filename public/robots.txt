@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://faceless-creator-toolkit.netlify.app/sitemap.xml
